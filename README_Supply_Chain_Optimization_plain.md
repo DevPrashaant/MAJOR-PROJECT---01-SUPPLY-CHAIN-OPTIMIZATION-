@@ -90,7 +90,7 @@ Filters included: Product Type, Supplier, Location, Transportation Mode
 |-----------|-------------|
 | supply_chain_data_with_dates.csv | Cleaned dataset with simulated Start Date |
 | README.md | Project overview and documentation |
-| supply_chain_dashboard.twbx | Tableau workbook with dashboards (optional if provided) |
+| supply_chain_dashboard.twbx | Tableau workbook with dashboards |
 | supply_chain_analysis.ipynb | Python notebook for cleaning and simulation |
 
 ## Role & Contribution
@@ -101,9 +101,4 @@ As the data analyst, I was responsible for:
 - Visualization and dashboard creation in Tableau
 - Final recommendations based on findings
 
-## Contact
 
-For questions or collaboration opportunities:  
-Dev Prashaant M R  
-your-email@example.com  
-[LinkedIn Profile or GitHub]
